@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amran-muhammad&label=Profile%20views&color=0e75b6&style=flat" alt="amran-muhammad" /> </p>
 
-- 🔭 I’m currently working on [Ezycourse](https://ezycourse.com/)
+- 🔭 I’m currently working on [Yofoodie](https://www.yofoodie.co.uk/)
 
 - 👨‍💻 All of my projects are available at [https://amran-muhammad.github.io/portfolio/](https://amran-muhammad.github.io/portfolio/)
 
