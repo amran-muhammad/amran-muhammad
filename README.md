@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amran-muhammad.github.io/portfolio/](https://amran-muhammad.github.io/portfolio/)
 
-- 💬 Ask me about **react, vue, laravel, adonis and angular**
+- 💬 Ask me about **react, vue, laravel, adonis, expressjs and angular**
 
 - 📫 How to reach me **amran8258@gmail.com**
 
